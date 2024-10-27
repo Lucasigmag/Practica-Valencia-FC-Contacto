@@ -1,0 +1,27 @@
+h1.adjust{
+    text-align: center;
+    font-family: 'Times New Roman',;
+    background-color: aqua;
+}
+
+h2.oran{
+    color: orange;
+    background-color: black;
+}
+
+p.bold{
+    font-weight: bold;
+    font-size: large;
+}
+
+div.izquierda{
+ float: left;
+ width: 50%;
+ background-color: orange;
+}
+
+div.derecha{
+    float: right;
+    width: 50%;
+    background-color: orange;
+}
